@@ -1,2 +1,2 @@
-# YouTube Plus (ex. YTLite)
+# YouTube Pluh
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
