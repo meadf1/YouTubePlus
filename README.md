@@ -3,5 +3,3 @@ A flexible enhancer for YouTube on iOS, featuring over hundred customizable opti
 
 ## How to install
 Add the [App Repo](https://github.com/meadf1/YouTubePluh/raw/refs/heads/main/app-repo.json) to your sideloading app. Just copy the link and import it there, then install it!
-
-test
