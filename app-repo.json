@@ -1,0 +1,26 @@
+{
+"name": "YouTubePluh App Repo",
+  "identifier": "com.google.ios.youtube",
+  "iconURL": "https://media.discordapp.net/attachments/1389063077936234627/1389064059311362138/D4ZWFPH.png?ex=68634237&is=6861f0b7&hm=8a6e8c144a6c0d9389ebbf62ad8b24a4047fe159043987e36bd1b13d2585beaa&=&width=640&height=640",
+  "apps": [
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Mead",
+      "iconURL": "https://media.discordapp.net/attachments/1389063077936234627/1389064059311362138/D4ZWFPH.png?ex=68634237&is=6861f0b7&hm=8a6e8c144a6c0d9389ebbf62ad8b24a4047fe159043987e36bd1b13d2585beaa&=&width=640&height=640",
+      "localizedDescription": "Modified YouTube",
+      "subtitle": "Modified YouTube",
+      "tintColor": "7289da",
+      "versions": [
+        {
+          "version": "20.26.7",
+          "date": "2025-06-29",
+          "size": 120501681,
+          "downloadURL": "https://cdn.discordapp.com/attachments/1389063077936234627/1389063170668363776/c5NiJLZ.ipa?ex=68634163&is=6861efe3&hm=5b9b5a726d4b29ad4336dd2c881134fc6d7ce6a5b24a48fddf30bbaaa5b72ddc&"
+        }
+      ],
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}
